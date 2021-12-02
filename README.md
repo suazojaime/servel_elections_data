@@ -16,7 +16,7 @@ The original data comes in json sintaxis but the functions from this library ret
 
 # elections_data.py
 
-this file contains the code that runs a tkinter app that allow the user to choose the region an "comuna" to get the data from, after that it plots the data as its shown below in the examples. The code its fairly simple and it runs after you choose the Region and the "comuna" and press "run".
+this file contains the code that runs a tkinter app that allow the user to choose the region and "comuna" to get the data from, after that it plots the data as its shown below in the examples. The code its fairly simple and it runs after you choose the Region and the "comuna" and press "run".
 
 The code its been really simple in order to allow anyone to build over it 
 
