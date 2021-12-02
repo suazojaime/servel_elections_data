@@ -1,4 +1,4 @@
-# servel_data_scraping
+# servel.py
 
 Librarie servel.py provides a variety of functions to connect to servel.cl and get the data from last presidentail elections.
 
