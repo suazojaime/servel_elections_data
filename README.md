@@ -18,7 +18,7 @@ The original data comes in json sintaxis but the functions from this library ret
 
 this file contains the code that runs a tkinter app that allow the user to choose the region and "comuna" to get the data from, after that it plots the data as its shown below in the examples. The code its fairly simple and it runs after you choose the Region and the "comuna" and press "run".
 
-The code its been really simple in order to allow anyone to build over it 
+> examples: 
 
 ![image](https://user-images.githubusercontent.com/81306499/144476047-de390448-b1da-4b08-a7f4-8a27fe45bf17.png)
 
