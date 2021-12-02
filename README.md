@@ -1,6 +1,7 @@
 # servel.py
 
 Librarie servel.py provides a variety of functions to connect to servel.cl and get the data from last presidentail elections.
+The original data comes in json sintaxis but the functions from this library return pandas dataframes so its easy work with, e.g plot the data
 
 * ***servel.all_regions()*** gets the data from all regions by region
 * ***servel.get_region_code(region_name)*** gets the code that servel uses to identify that region in particular
