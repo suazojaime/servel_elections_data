@@ -14,6 +14,11 @@ The original data comes in json sintaxis but the functions from this library ret
 * ***servel.votes_by_region()*** gets the vote by region
 * ***servel.votes_by_comunas(region_name)*** gets the votes by "comuna" inside that region in particular
 
+![image](https://user-images.githubusercontent.com/81306499/144479407-dd586df2-16a4-40cb-8ad1-588b9f3c3bdf.png)
+
+![image](https://user-images.githubusercontent.com/81306499/144479946-71899d22-d1e8-4742-bcf5-fbf8c702f17b.png)
+
+
 # elections_data.py
 
 this file contains the code that runs a tkinter app that allow the user to choose the region and "comuna" to get the data from, after that it plots the data as its shown below in the examples. The code its fairly simple and it runs after you choose the Region and the "comuna" and press "run".
